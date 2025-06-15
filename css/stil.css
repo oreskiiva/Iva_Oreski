@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: IvaOreski;
-    src: url(ivaoreski.ttf);
+    src: url(../ivaoreski.ttf);
 }
 html {
     background-image: url(../slike/bg\ image.jpg);
